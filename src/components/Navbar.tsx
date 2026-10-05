@@ -48,7 +48,7 @@ export const Navbar: React.FC<NavbarProps> = ({ currentPage, onNavigate }) => {
           className="group text-left flex items-center gap-3 cursor-pointer focus:outline-none shrink-0"
         >
           <img 
-            src="/am_logo_white.png" 
+            src="./am_logo_white.png" 
             alt="AM Akash Makana Production" 
             className="h-9 sm:h-11 w-auto object-contain transition-transform group-hover:scale-105 filter drop-shadow-[0_2px_10px_rgba(255,255,255,0.25)]" 
           />

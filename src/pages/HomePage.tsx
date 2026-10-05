@@ -29,8 +29,8 @@ export const HomePage: React.FC<HomePageProps> = ({ onNavigate }) => {
         {/* Real Live Event Video Background with Crisp Contrast */}
         <div className="absolute inset-0 z-0">
           <video 
-            src="/media/lotd_reel_2.mp4" 
-            poster="/media/lotd_reel_2_thumb.jpg"
+            src="./media/lotd_reel_2.mp4" 
+            poster="./media/lotd_reel_2_thumb.jpg"
             autoPlay 
             muted 
             loop 
@@ -494,8 +494,8 @@ export const HomePage: React.FC<HomePageProps> = ({ onNavigate }) => {
         {/* Real Experience Atmosphere Video/Photo */}
         <div className="absolute inset-0 z-0">
           <video 
-            src="/media/chennai_club_night.mp4" 
-            poster="/media/chennai_club_night_thumb.jpg"
+            src="./media/chennai_club_night.mp4" 
+            poster="./media/chennai_club_night_thumb.jpg"
             autoPlay 
             muted 
             loop 

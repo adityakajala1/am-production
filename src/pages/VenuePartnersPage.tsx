@@ -29,7 +29,7 @@ export const VenuePartnersPage: React.FC<VenuePartnersPageProps> = ({ onNavigate
       tagline: 'Flagship Nightlife & Saturday Takeover Partner',
       location: 'Nungambakkam, Chennai',
       description: 'Chennai’s premier high-energy club destination featuring massive footfall, signature Bollywood Takeover nights, VIP table tiers, and arena-grade acoustic setups produced by AM PRODUCTION.',
-      image: '/media/lotd_reel_2_thumb.jpg',
+      image: './media/lotd_reel_2_thumb.jpg',
       capacity: '1,200+ Guests',
       vibe: 'High-Energy Bollywood, Commercial & Club Anthems',
       features: [
@@ -47,7 +47,7 @@ export const VenuePartnersPage: React.FC<VenuePartnersPageProps> = ({ onNavigate
       tagline: 'High-Energy Bar, Kitchen & Nightlife Destination',
       location: 'Nungambakkam / Central Chennai',
       description: 'An eclectic, premium nightlife venue renowned for opulent interiors, handcrafted cocktail energy, curated music lineups, and high-octane weekend crowd turnouts.',
-      image: '/media/lotd_reel_3_thumb.jpg',
+      image: './media/lotd_reel_3_thumb.jpg',
       capacity: '800+ Guests',
       vibe: 'Bespoke Club Commercial, Deep Beats & Experiential Party Vibe',
       features: [
@@ -64,7 +64,7 @@ export const VenuePartnersPage: React.FC<VenuePartnersPageProps> = ({ onNavigate
       tagline: 'Premier Lounge, High-End Nightlife & Party Spot',
       location: 'Anna Nagar / Central Chennai',
       description: 'Chennai’s celebrated luxury nightlife spot delivering a vibrant party crowd, state-of-the-art sound systems, and pulse-pounding DJ residencies engineered in partnership with AM PRODUCTION.',
-      image: '/media/chennai_club_night_thumb.jpg',
+      image: './media/chennai_club_night_thumb.jpg',
       capacity: '700+ Guests',
       vibe: 'Commercial Hits, Bollywood Remixes & Urban Club Energy',
       features: [
@@ -81,7 +81,7 @@ export const VenuePartnersPage: React.FC<VenuePartnersPageProps> = ({ onNavigate
       tagline: 'Legendary Live Music Stage & Concert Partner',
       location: 'Nungambakkam, Chennai',
       description: 'The world-famous rock and live entertainment institution hosting electrifying fusion nights, touring bands, retro specials, and commercial club takeovers.',
-      image: '/media/lotd_reel_1_thumb.jpg',
+      image: './media/lotd_reel_1_thumb.jpg',
       capacity: '850+ Guests',
       vibe: 'Rock Anthems, Retro Bollywood & Live Stage Concerts',
       features: [

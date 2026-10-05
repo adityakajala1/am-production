@@ -12,8 +12,8 @@ export const EVENTS_DATA: EventItem[] = [
     venue: 'Lord of the Drinks (LOTD), Nungambakkam',
     category: 'CONCERTS',
     status: 'Upcoming',
-    heroImage: '/media/lotd_reel_2_thumb.jpg',
-    thumbnail: '/media/lotd_reel_2_thumb.jpg',
+    heroImage: './media/lotd_reel_2_thumb.jpg',
+    thumbnail: './media/lotd_reel_2_thumb.jpg',
     shortDescription: 'Chennai’s premier packed Saturday night featuring top-tier resident & guest DJs, synchronized intelligent beam lighting, and high-energy club entertainment.',
     fullDescription: 'Produced week-in and week-out by AM PRODUCTION at Lord of the Drinks Chennai. We oversee audio engineering, bespoke stage DJ console lighting, CO2 blast cannons, and unmatched crowd hype for over 1,200 attendees every weekend.',
     stats: {
@@ -24,16 +24,16 @@ export const EVENTS_DATA: EventItem[] = [
     },
     artists: ['DJ Meet', 'DJ Akhil Talreja', 'DJ Musical Monkey', 'DJ Rihya'],
     gallery: [
-      '/media/lotd_reel_2_thumb.jpg',
-      '/media/lotd_reel_1_thumb.jpg',
-      '/media/lotd_reel_4_thumb.jpg',
-      '/media/lotd_reel_3_thumb.jpg'
+      './media/lotd_reel_2_thumb.jpg',
+      './media/lotd_reel_1_thumb.jpg',
+      './media/lotd_reel_4_thumb.jpg',
+      './media/lotd_reel_3_thumb.jpg'
     ],
     behindTheScenes: [
-      '/media/lotd_reel_1_thumb.jpg',
-      '/media/lotd_reel_4_thumb.jpg'
+      './media/lotd_reel_1_thumb.jpg',
+      './media/lotd_reel_4_thumb.jpg'
     ],
-    videoUrl: '/media/lotd_reel_2.mp4',
+    videoUrl: './media/lotd_reel_2.mp4',
     sponsors: ['Lord of the Drinks', 'Pioneer DJ', 'Budweiser Experiences']
   },
   {
@@ -47,8 +47,8 @@ export const EVENTS_DATA: EventItem[] = [
     venue: 'Hard Rock Cafe, Nungambakkam',
     category: 'CONCERTS',
     status: 'Upcoming',
-    heroImage: '/media/lotd_reel_1_thumb.jpg',
-    thumbnail: '/media/lotd_reel_1_thumb.jpg',
+    heroImage: './media/lotd_reel_1_thumb.jpg',
+    thumbnail: './media/lotd_reel_1_thumb.jpg',
     shortDescription: 'Electrifying club showcases merging Bollywood chartbusters, South hits, and rock anthems on Chennai’s most iconic music stage.',
     fullDescription: 'From artist advancing and custom Pioneer CDJ-3000 backlines to programmed strobe chases and VIP table crowd management, AM PRODUCTION delivers flawless hospitality and concert-grade acoustics inside Hard Rock Cafe.',
     stats: {
@@ -59,14 +59,14 @@ export const EVENTS_DATA: EventItem[] = [
     },
     artists: ['DJ Rihya', 'DJ Meet'],
     gallery: [
-      '/media/dj_rihya_photo.jpg',
-      '/media/lotd_reel_1_thumb.jpg',
-      '/media/sherlocks_pub_dj_thumb.jpg'
+      './media/dj_rihya_photo.jpg',
+      './media/lotd_reel_1_thumb.jpg',
+      './media/sherlocks_pub_dj_thumb.jpg'
     ],
     behindTheScenes: [
-      '/media/lotd_reel_4_thumb.jpg'
+      './media/lotd_reel_4_thumb.jpg'
     ],
-    videoUrl: '/media/sherlocks_pub_dj.mp4',
+    videoUrl: './media/sherlocks_pub_dj.mp4',
     sponsors: ['Hard Rock Cafe', 'Red Bull Live', 'Heineken Silver']
   },
   {
@@ -80,8 +80,8 @@ export const EVENTS_DATA: EventItem[] = [
     venue: 'Open Grounds & Arena Amphitheatre',
     category: 'MUSIC FESTIVALS',
     status: 'Upcoming',
-    heroImage: '/media/pool_party_live_thumb.jpg',
-    thumbnail: '/media/pool_party_live_thumb.jpg',
+    heroImage: './media/pool_party_live_thumb.jpg',
+    thumbnail: './media/pool_party_live_thumb.jpg',
     shortDescription: 'Monumental open-air festival experience with multi-tier stage structures, laser matrix, and pristine stadium-line acoustics.',
     fullDescription: 'Spanning thousands of music enthusiasts, AM PRODUCTION provides end-to-end stage design, transparent curved LED walls, cryogenic CO2 jets, and line array tuning for festival scale.',
     stats: {
@@ -92,13 +92,13 @@ export const EVENTS_DATA: EventItem[] = [
     },
     artists: ['DJ Rihya', 'DJ Meet', 'Soulstrings Collective'],
     gallery: [
-      '/media/pool_party_live_thumb.jpg',
-      '/media/dj_santana_live_thumb.jpg'
+      './media/pool_party_live_thumb.jpg',
+      './media/dj_santana_live_thumb.jpg'
     ],
     behindTheScenes: [
-      '/media/lotd_reel_4_thumb.jpg'
+      './media/lotd_reel_4_thumb.jpg'
     ],
-    videoUrl: '/media/pool_party_live.mp4',
+    videoUrl: './media/pool_party_live.mp4',
     sponsors: ['Pioneer DJ', 'Monster Energy', 'VH1']
   },
   {
@@ -112,8 +112,8 @@ export const EVENTS_DATA: EventItem[] = [
     venue: 'University Mega Stadium',
     category: 'COLLEGE EVENTS',
     status: 'Past',
-    heroImage: '/media/chennai_club_night_thumb.jpg',
-    thumbnail: '/media/chennai_club_night_thumb.jpg',
+    heroImage: './media/chennai_club_night_thumb.jpg',
+    thumbnail: './media/chennai_club_night_thumb.jpg',
     shortDescription: 'High-octane college festival night bringing together 12,000+ students with laser choreography and live concert energy.',
     fullDescription: 'From university approvals and crowd barriers to mounting concert-grade sound and lighting rigs, AM PRODUCTION delivers youth cultural spectacles with total safety compliance.',
     stats: {
@@ -124,13 +124,13 @@ export const EVENTS_DATA: EventItem[] = [
     },
     artists: ['DJ Meet', 'DJ Rihya', 'Soulstrings Live'],
     gallery: [
-      '/media/chennai_club_night_thumb.jpg',
-      '/media/lotd_reel_2_thumb.jpg'
+      './media/chennai_club_night_thumb.jpg',
+      './media/lotd_reel_2_thumb.jpg'
     ],
     behindTheScenes: [
-      '/media/lotd_reel_3_thumb.jpg'
+      './media/lotd_reel_3_thumb.jpg'
     ],
-    videoUrl: '/media/chennai_club_night.mp4',
+    videoUrl: './media/chennai_club_night.mp4',
     sponsors: ['Campus Activewear', 'Fastrack']
   },
   {
@@ -144,8 +144,8 @@ export const EVENTS_DATA: EventItem[] = [
     venue: 'Sir Mutha Concert Hall & Studio Lounges',
     category: 'OTHER',
     status: 'Past',
-    heroImage: '/media/lotd_reel_3_thumb.jpg',
-    thumbnail: '/media/lotd_reel_3_thumb.jpg',
+    heroImage: './media/lotd_reel_3_thumb.jpg',
+    thumbnail: './media/lotd_reel_3_thumb.jpg',
     shortDescription: 'Acoustically tuned, intimate live stage curating premier stand-up comics, spoken-word poets, and storytelling evenings.',
     fullDescription: 'AM PRODUCTION provides turnkey production for live spoken-word and comedy specials—handling crystal microphone arrays, warm key lighting, HD multi-cam recording, and audience seating design.',
     stats: {
@@ -156,13 +156,13 @@ export const EVENTS_DATA: EventItem[] = [
     },
     artists: ['Featured Comics & Spoken Word Poets'],
     gallery: [
-      '/media/lotd_reel_3_thumb.jpg',
-      '/media/lotd_reel_4_thumb.jpg'
+      './media/lotd_reel_3_thumb.jpg',
+      './media/lotd_reel_4_thumb.jpg'
     ],
     behindTheScenes: [
-      '/media/lotd_reel_1_thumb.jpg'
+      './media/lotd_reel_1_thumb.jpg'
     ],
-    videoUrl: '/media/lotd_reel_3.mp4',
+    videoUrl: './media/lotd_reel_3.mp4',
     sponsors: ['The Comedy Collective', 'Studio Live']
   },
   {
@@ -176,8 +176,8 @@ export const EVENTS_DATA: EventItem[] = [
     venue: 'Grand Luxury Resort Lawns',
     category: 'CORPORATE',
     status: 'Past',
-    heroImage: '/media/dj_santana_live_thumb.jpg',
-    thumbnail: '/media/dj_santana_live_thumb.jpg',
+    heroImage: './media/dj_santana_live_thumb.jpg',
+    thumbnail: './media/dj_santana_live_thumb.jpg',
     shortDescription: 'Grand corporate celebration featuring LED walls, architectural lighting, corporate protocol, and high-energy DJ afterparty.',
     fullDescription: 'Custom staging, seamless AV presentations, celebrity artist hospitality, and sound engineering that balances keynote clarity with dancefloor power.',
     stats: {
@@ -188,13 +188,13 @@ export const EVENTS_DATA: EventItem[] = [
     },
     artists: ['DJ Rihya', 'Live Fusion Band'],
     gallery: [
-      '/media/dj_santana_live_thumb.jpg',
-      '/media/chennai_club_night_thumb.jpg'
+      './media/dj_santana_live_thumb.jpg',
+      './media/chennai_club_night_thumb.jpg'
     ],
     behindTheScenes: [
-      '/media/lotd_reel_2_thumb.jpg'
+      './media/lotd_reel_2_thumb.jpg'
     ],
-    videoUrl: '/media/dj_santana_live.mp4',
+    videoUrl: './media/dj_santana_live.mp4',
     sponsors: ['Titan Tech', 'Mercedes-Benz']
   }
 ];
@@ -207,8 +207,8 @@ export const ARTISTS_DATA: ArtistItem[] = [
     genre: 'Commercial, Bollywood & Club Anthems',
     category: 'DJs',
     location: 'Chennai / Mumbai, India',
-    photo: '/media/dj_rihya_photo.jpg',
-    bannerImage: '/media/dj_rihya_stage.jpg',
+    photo: './media/dj_rihya_photo.jpg',
+    bannerImage: './media/dj_rihya_stage.jpg',
     bio: 'One of the most sought-after party instigators in India, known for explosive Bollywood remixes, commercial club bangers, melodic techno sets, and electrifying crowd engagement across top luxury venues.',
     monthlyListeners: 'Resident & Touring Headliner',
     notablePerformances: [
@@ -217,9 +217,9 @@ export const ARTISTS_DATA: ArtistItem[] = [
       'Campus Mega Cultural Star Nights'
     ],
     gallery: [
-      '/media/dj_rihya_photo.jpg',
-      '/media/dj_rihya_stage.jpg',
-      '/media/dj_rihya_club.jpg'
+      './media/dj_rihya_photo.jpg',
+      './media/dj_rihya_stage.jpg',
+      './media/dj_rihya_club.jpg'
     ],
     featuredEvents: ['ev-1', 'ev-2', 'ev-3', 'ev-4']
   },
@@ -230,8 +230,8 @@ export const ARTISTS_DATA: ArtistItem[] = [
     genre: 'Bollywood, Punjabi & Desi Hip-Hop',
     category: 'DJs',
     location: 'Chennai / Mumbai',
-    photo: '/media/lotd_reel_1_thumb.jpg',
-    bannerImage: '/media/lotd_reel_2_thumb.jpg',
+    photo: './media/lotd_reel_1_thumb.jpg',
+    bannerImage: './media/lotd_reel_2_thumb.jpg',
     bio: 'Renowned for seamless genre-blending and high-energy Bollywood club sets that keep dance floors moving till the early hours.',
     monthlyListeners: 'Nightlife Favorite',
     notablePerformances: [
@@ -240,8 +240,8 @@ export const ARTISTS_DATA: ArtistItem[] = [
       'High-End Private Sangeet & Afterparties'
     ],
     gallery: [
-      '/media/lotd_reel_1_thumb.jpg',
-      '/media/lotd_reel_2_thumb.jpg'
+      './media/lotd_reel_1_thumb.jpg',
+      './media/lotd_reel_2_thumb.jpg'
     ],
     featuredEvents: ['ev-1', 'ev-4']
   },
@@ -252,8 +252,8 @@ export const ARTISTS_DATA: ArtistItem[] = [
     genre: 'Club Commercial, Tech & Bollywood',
     category: 'DJs',
     location: 'Chennai, India',
-    photo: '/media/dj_santana_live_thumb.jpg',
-    bannerImage: '/media/sherlocks_pub_dj_thumb.jpg',
+    photo: './media/dj_santana_live_thumb.jpg',
+    bannerImage: './media/sherlocks_pub_dj_thumb.jpg',
     bio: 'Delivering infectious rhythms, creative live mashups, and energetic drops tailored for modern nightlife crowds and music festival stages.',
     monthlyListeners: 'Club & Festival Specialist',
     notablePerformances: [
@@ -262,8 +262,8 @@ export const ARTISTS_DATA: ArtistItem[] = [
       'Youth Festival Headliner'
     ],
     gallery: [
-      '/media/dj_santana_live_thumb.jpg',
-      '/media/sherlocks_pub_dj_thumb.jpg'
+      './media/dj_santana_live_thumb.jpg',
+      './media/sherlocks_pub_dj_thumb.jpg'
     ],
     featuredEvents: ['ev-1']
   },
@@ -274,8 +274,8 @@ export const ARTISTS_DATA: ArtistItem[] = [
     genre: 'Live Fusion & Rock Anthems',
     category: 'Bands',
     location: 'Chennai / Bengaluru',
-    photo: '/media/sherlocks_pub_dj_thumb.jpg',
-    bannerImage: '/media/chennai_club_night_thumb.jpg',
+    photo: './media/sherlocks_pub_dj_thumb.jpg',
+    bannerImage: './media/chennai_club_night_thumb.jpg',
     bio: 'Dynamic live ensemble combining electric guitars, violin, and dual vocalists for unforgettable live acoustic and concert performances.',
     monthlyListeners: 'Live Concert Favorite',
     notablePerformances: [
@@ -284,8 +284,8 @@ export const ARTISTS_DATA: ArtistItem[] = [
       'Inter-College Mega Fest'
     ],
     gallery: [
-      '/media/sherlocks_pub_dj_thumb.jpg',
-      '/media/lotd_reel_1_thumb.jpg'
+      './media/sherlocks_pub_dj_thumb.jpg',
+      './media/lotd_reel_1_thumb.jpg'
     ],
     featuredEvents: ['ev-2', 'ev-4']
   },
@@ -296,8 +296,8 @@ export const ARTISTS_DATA: ArtistItem[] = [
     genre: 'Stand-Up Comedy & Spoken Word',
     category: 'Performers',
     location: 'Chennai, India',
-    photo: '/media/lotd_reel_3_thumb.jpg',
-    bannerImage: '/media/lotd_reel_1_thumb.jpg',
+    photo: './media/lotd_reel_3_thumb.jpg',
+    bannerImage: './media/lotd_reel_1_thumb.jpg',
     bio: 'Curated roster of top local and touring stand-up comedians and poets delivering high-engagement, laughter-filled evenings.',
     monthlyListeners: 'Intimate Showcase',
     notablePerformances: [
@@ -305,7 +305,7 @@ export const ARTISTS_DATA: ArtistItem[] = [
       'Studio Lounge Poetry Nights'
     ],
     gallery: [
-      '/media/lotd_reel_3_thumb.jpg'
+      './media/lotd_reel_3_thumb.jpg'
     ],
     featuredEvents: ['ev-5']
   }
@@ -319,7 +319,7 @@ export const SERVICES_DATA: ServiceItem[] = [
     tagline: 'High-Impact Bollywood Nights, Guest DJs & Club Takeovers',
     description: 'We orchestrate end-to-end nightlife experiences at premier venues like Lord of the Drinks and Hard Rock Cafe: intelligent moving lighting, club sound balancing, resident DJs, and door-to-dancefloor crowd energy.',
     icon: 'Music2',
-    coverImage: '/media/lotd_reel_2_thumb.jpg',
+    coverImage: './media/lotd_reel_2_thumb.jpg',
     deliverables: [
       'Curated DJ lineup and theme programming (Bollywood, Commercial, Retro, Hip-Hop)',
       'Intelligent DMX moving heads and laser light show choreography',
@@ -341,7 +341,7 @@ export const SERVICES_DATA: ServiceItem[] = [
     tagline: 'Multi-Stage Mega Festivals & Live Concert Rigs',
     description: 'From open grounds to indoor arenas, we provide turnkey concert structures, massive LED backdrops, line array audio distribution, and complete festival logistical containment.',
     icon: 'Radio',
-    coverImage: '/media/lotd_reel_4_thumb.jpg',
+    coverImage: './media/lotd_reel_4_thumb.jpg',
     deliverables: [
       'Full stage design, Layher trussing, and structural load signoffs',
       'Multi-stage artist schedule advancing & rider execution',
@@ -363,7 +363,7 @@ export const SERVICES_DATA: ServiceItem[] = [
     tagline: 'Youth Mega-Cultural Celebrations & Celebrity Shows',
     description: 'Specializing in high-decibel campus cultural festivals. We handle college administration approvals, crowd barrier safety, celebrity singer/DJ advancing, and electrifying stage setups.',
     icon: 'CalendarCheck',
-    coverImage: '/media/chennai_club_night_thumb.jpg',
+    coverImage: './media/chennai_club_night_thumb.jpg',
     deliverables: [
       'Turnkey stage, sound, lighting, and LED wall rentals',
       'Celebrity artist booking and student council coordination',
@@ -385,7 +385,7 @@ export const SERVICES_DATA: ServiceItem[] = [
     tagline: 'Custom Stage Design, LED Backdrops & Scenography',
     description: 'We turn plain venues into architectural wonderlands. Customized 3D DJ booths, tiered risers, transparent dance stages, and synchronized visual displays.',
     icon: 'Layers',
-    coverImage: '/media/lotd_reel_1_thumb.jpg',
+    coverImage: './media/lotd_reel_1_thumb.jpg',
     deliverables: [
       '3D CAD stage concepts and photorealistic visual previews',
       'Custom CNC fabricated brand & DJ console fascias',
@@ -406,7 +406,7 @@ export const SERVICES_DATA: ServiceItem[] = [
     tagline: 'Concert Sound Engineering & Pyrotechnic Excitement',
     description: 'Acoustic fidelity that gives punch to every beat drop and clarity to every vocal, backed by lasers, CO2 blasts, cold sparks, and synchronized strobes.',
     icon: 'Zap',
-    coverImage: '/media/lotd_reel_4_thumb.jpg',
+    coverImage: './media/lotd_reel_4_thumb.jpg',
     deliverables: [
       'Predictive acoustic modeling for venue SPL balance',
       'ArtNet/DMX moving head and strobe programming',
@@ -427,7 +427,7 @@ export const SERVICES_DATA: ServiceItem[] = [
     tagline: 'DJs, Bands, Singers, Comedians & VIP Advancing',
     description: 'Direct booking connections for leading DJs, Bollywood and regional playback singers, progressive bands, and stand-up comics with seamless contract management.',
     icon: 'Sparkles',
-    coverImage: '/media/lotd_reel_3_thumb.jpg',
+    coverImage: './media/lotd_reel_3_thumb.jpg',
     deliverables: [
       'Artist contracting, tech rider checks, and schedule advancing',
       'VIP airport transfers, luxury hospitality, and green room suites',
@@ -449,7 +449,7 @@ export const TESTIMONIALS_DATA: TestimonialItem[] = [
     position: 'Nightlife & Events Programming',
     companyOrEvent: 'Lord of the Drinks, Chennai',
     category: 'Clients',
-    avatar: '/media/lotd_reel_1_thumb.jpg',
+    avatar: './media/lotd_reel_1_thumb.jpg',
     rating: 5
   },
   {
@@ -459,7 +459,7 @@ export const TESTIMONIALS_DATA: TestimonialItem[] = [
     position: 'Headline DJ & Performer',
     companyOrEvent: 'Club Resident & Touring Artist',
     category: 'Artists',
-    avatar: '/media/dj_rihya_photo.jpg',
+    avatar: './media/dj_rihya_photo.jpg',
     rating: 5
   },
   {
@@ -469,7 +469,7 @@ export const TESTIMONIALS_DATA: TestimonialItem[] = [
     position: 'Head of Operations',
     companyOrEvent: 'Nightlife & Events Consortium, Chennai',
     category: 'Brand Partners',
-    avatar: '/media/lotd_reel_2_thumb.jpg',
+    avatar: './media/lotd_reel_2_thumb.jpg',
     rating: 5
   }
 ];
@@ -489,21 +489,21 @@ export const INSTAGRAM_HIGHLIGHTS: InstagramHighlight[] = [
   {
     id: 'hl-1',
     title: 'LOTD Saturday',
-    coverImage: '/media/lotd_reel_1_thumb.jpg',
+    coverImage: './media/lotd_reel_1_thumb.jpg',
     storyCount: 48,
     category: 'Lord of the Drinks Bollywood Takeovers',
-    videoUrl: '/media/lotd_reel_1.mp4',
+    videoUrl: './media/lotd_reel_1.mp4',
     stories: [
       {
         id: 'st-1-1',
-        videoUrl: '/media/lotd_reel_1.mp4',
-        imageUrl: '/media/lotd_reel_1_thumb.jpg',
+        videoUrl: './media/lotd_reel_1.mp4',
+        imageUrl: './media/lotd_reel_1_thumb.jpg',
         caption: 'Saturday Bollywood Blowout live behind the Pioneer CDJs with @djmeet.official at Lord of the Drinks Chennai!'
       },
       {
         id: 'st-1-2',
-        videoUrl: '/media/lotd_reel_2.mp4',
-        imageUrl: '/media/lotd_reel_2_thumb.jpg',
+        videoUrl: './media/lotd_reel_2.mp4',
+        imageUrl: './media/lotd_reel_2_thumb.jpg',
         caption: 'Packed floor energy at Lord of the Drinks Chennai! 1,200+ partygoers turning up to pure Bollywood vibes.'
       }
     ]
@@ -511,15 +511,15 @@ export const INSTAGRAM_HIGHLIGHTS: InstagramHighlight[] = [
   {
     id: 'hl-2',
     title: 'Club Takeover',
-    coverImage: '/media/lotd_reel_2_thumb.jpg',
+    coverImage: './media/lotd_reel_2_thumb.jpg',
     storyCount: 36,
     category: 'Full House Weekend Party Vibes',
-    videoUrl: '/media/lotd_reel_2.mp4',
+    videoUrl: './media/lotd_reel_2.mp4',
     stories: [
       {
         id: 'st-2-1',
-        videoUrl: '/media/lotd_reel_2.mp4',
-        imageUrl: '/media/lotd_reel_2_thumb.jpg',
+        videoUrl: './media/lotd_reel_2.mp4',
+        imageUrl: './media/lotd_reel_2_thumb.jpg',
         caption: 'Nightlife engineered to perfection! High-decibel sound and intelligent beam lighting.'
       }
     ]
@@ -527,15 +527,15 @@ export const INSTAGRAM_HIGHLIGHTS: InstagramHighlight[] = [
   {
     id: 'hl-3',
     title: 'VIP & Celebrations',
-    coverImage: '/media/lotd_reel_3_thumb.jpg',
+    coverImage: './media/lotd_reel_3_thumb.jpg',
     storyCount: 24,
     category: 'VIP Bottle Service & Birthdays',
-    videoUrl: '/media/lotd_reel_3.mp4',
+    videoUrl: './media/lotd_reel_3.mp4',
     stories: [
       {
         id: 'st-3-1',
-        videoUrl: '/media/lotd_reel_3.mp4',
-        imageUrl: '/media/lotd_reel_3_thumb.jpg',
+        videoUrl: './media/lotd_reel_3.mp4',
+        imageUrl: './media/lotd_reel_3_thumb.jpg',
         caption: 'Special VIP birthday & celebration setups at Lord of the Drinks Chennai with custom marquee boards.'
       }
     ]
@@ -543,15 +543,15 @@ export const INSTAGRAM_HIGHLIGHTS: InstagramHighlight[] = [
   {
     id: 'hl-4',
     title: 'Guest Artists',
-    coverImage: '/media/lotd_reel_4_thumb.jpg',
+    coverImage: './media/lotd_reel_4_thumb.jpg',
     storyCount: 42,
     category: 'DJ Akhil Talreja & Headliners',
-    videoUrl: '/media/lotd_reel_4.mp4',
+    videoUrl: './media/lotd_reel_4.mp4',
     stories: [
       {
         id: 'st-4-1',
-        videoUrl: '/media/lotd_reel_4.mp4',
-        imageUrl: '/media/lotd_reel_4_thumb.jpg',
+        videoUrl: './media/lotd_reel_4.mp4',
+        imageUrl: './media/lotd_reel_4_thumb.jpg',
         caption: 'DJ Akhil Talreja live arrival & performance produced at Lord of the Drinks Chennai!'
       }
     ]
@@ -559,21 +559,21 @@ export const INSTAGRAM_HIGHLIGHTS: InstagramHighlight[] = [
   {
     id: 'hl-5',
     title: 'DJ Rihya Live',
-    coverImage: '/media/dj_rihya_photo.jpg',
+    coverImage: './media/dj_rihya_photo.jpg',
     storyCount: 28,
     category: 'Commercial & Bollywood Club Nights',
-    videoUrl: '/media/lotd_reel_1.mp4',
+    videoUrl: './media/lotd_reel_1.mp4',
     stories: [
       {
         id: 'st-5-1',
-        videoUrl: '/media/lotd_reel_1.mp4',
-        imageUrl: '/media/dj_rihya_photo.jpg',
+        videoUrl: './media/lotd_reel_1.mp4',
+        imageUrl: './media/dj_rihya_photo.jpg',
         caption: 'High-energy Bollywood & club anthems with DJ Rihya live on stage!'
       },
       {
         id: 'st-5-2',
-        videoUrl: '/media/lotd_reel_1.mp4',
-        imageUrl: '/media/dj_rihya_stage.jpg',
+        videoUrl: './media/lotd_reel_1.mp4',
+        imageUrl: './media/dj_rihya_stage.jpg',
         caption: 'Behind the decks with DJ Rihya at peak hour crowd takeover.'
       }
     ]
@@ -581,15 +581,15 @@ export const INSTAGRAM_HIGHLIGHTS: InstagramHighlight[] = [
   {
     id: 'hl-6',
     title: 'Stage & SFX',
-    coverImage: '/media/lotd_reel_4_thumb.jpg',
+    coverImage: './media/lotd_reel_4_thumb.jpg',
     storyCount: 31,
     category: 'Cold Pyro, CO2 & DMX Lightshow',
-    videoUrl: '/media/lotd_reel_4.mp4',
+    videoUrl: './media/lotd_reel_4.mp4',
     stories: [
       {
         id: 'st-6-1',
-        videoUrl: '/media/lotd_reel_4.mp4',
-        imageUrl: '/media/lotd_reel_4_thumb.jpg',
+        videoUrl: './media/lotd_reel_4.mp4',
+        imageUrl: './media/lotd_reel_4_thumb.jpg',
         caption: 'Synchronized indoor spark machines, laser chases, and heavy fog atmospheric drops.'
       }
     ]
@@ -601,8 +601,8 @@ export const GALLERY_DATA: GalleryItem[] = [
     id: 'gal-reel-1',
     title: 'Saturday Madness @ Lord of the Drinks',
     category: 'REELS',
-    imageUrl: '/media/lotd_reel_1_thumb.jpg',
-    videoUrl: '/media/lotd_reel_1.mp4',
+    imageUrl: './media/lotd_reel_1_thumb.jpg',
+    videoUrl: './media/lotd_reel_1.mp4',
     event: 'Lord of the Drinks, Chennai',
     aspect: 'vertical',
     likesCount: '5.4K',
@@ -613,8 +613,8 @@ export const GALLERY_DATA: GalleryItem[] = [
     id: 'gal-reel-2',
     title: 'Full House Bollywood Saturday Night',
     category: 'REELS',
-    imageUrl: '/media/lotd_reel_2_thumb.jpg',
-    videoUrl: '/media/lotd_reel_2.mp4',
+    imageUrl: './media/lotd_reel_2_thumb.jpg',
+    videoUrl: './media/lotd_reel_2.mp4',
     event: 'Lord of the Drinks, Chennai',
     aspect: 'vertical',
     likesCount: '7.8K',
@@ -625,8 +625,8 @@ export const GALLERY_DATA: GalleryItem[] = [
     id: 'gal-reel-3',
     title: 'DJ Akhil Talreja Live Headliner Set',
     category: 'REELS',
-    imageUrl: '/media/lotd_reel_4_thumb.jpg',
-    videoUrl: '/media/lotd_reel_4.mp4',
+    imageUrl: './media/lotd_reel_4_thumb.jpg',
+    videoUrl: './media/lotd_reel_4.mp4',
     event: 'Lord of the Drinks, Chennai',
     aspect: 'vertical',
     likesCount: '9.2K',
@@ -637,8 +637,8 @@ export const GALLERY_DATA: GalleryItem[] = [
     id: 'gal-reel-4',
     title: 'VIP Table Celebrations & Ambience',
     category: 'REELS',
-    imageUrl: '/media/lotd_reel_3_thumb.jpg',
-    videoUrl: '/media/lotd_reel_3.mp4',
+    imageUrl: './media/lotd_reel_3_thumb.jpg',
+    videoUrl: './media/lotd_reel_3.mp4',
     event: 'Lord of the Drinks, Chennai',
     aspect: 'vertical',
     likesCount: '4.1K',
@@ -649,7 +649,7 @@ export const GALLERY_DATA: GalleryItem[] = [
     id: 'gal-1',
     title: 'LOTD Saturday Bollywood Euphoria',
     category: 'CONCERTS',
-    imageUrl: '/media/lotd_reel_2_thumb.jpg',
+    imageUrl: './media/lotd_reel_2_thumb.jpg',
     event: 'Lord of the Drinks Takeover',
     aspect: 'vertical',
     caption: '1,200+ partygoers packing the dancefloor for our signature Saturday Bollywood blowout.'
@@ -658,7 +658,7 @@ export const GALLERY_DATA: GalleryItem[] = [
     id: 'gal-2',
     title: 'Live Behind the Console & Mixer',
     category: 'CONCERTS',
-    imageUrl: '/media/lotd_reel_1_thumb.jpg',
+    imageUrl: './media/lotd_reel_1_thumb.jpg',
     event: 'Club Night Showcase',
     aspect: 'vertical',
     caption: 'Headliner DJ driving peak energy behind the calibrated Pioneer CDJ consoles.'
@@ -667,7 +667,7 @@ export const GALLERY_DATA: GalleryItem[] = [
     id: 'gal-3',
     title: 'VIP Arrival & Spark Fountain Setup',
     category: 'PRODUCTION',
-    imageUrl: '/media/lotd_reel_4_thumb.jpg',
+    imageUrl: './media/lotd_reel_4_thumb.jpg',
     event: 'Lord of the Drinks Stage Entrance',
     aspect: 'vertical',
     caption: 'Cold pyrotechnic spark fountains and red carpet guest arrival for DJ Akhil Talreja.'
@@ -676,7 +676,7 @@ export const GALLERY_DATA: GalleryItem[] = [
     id: 'gal-4',
     title: 'VIP Lounge Ambience & Lighting',
     category: 'BACKSTAGE',
-    imageUrl: '/media/lotd_reel_3_thumb.jpg',
+    imageUrl: './media/lotd_reel_3_thumb.jpg',
     event: 'Exclusive Table Zone',
     aspect: 'vertical',
     caption: 'Warm ambient glow, personalized service, and curated nightlife atmosphere.'
@@ -685,7 +685,7 @@ export const GALLERY_DATA: GalleryItem[] = [
     id: 'gal-5',
     title: 'DJ Rihya Live Stage & Club Performance',
     category: 'CONCERTS',
-    imageUrl: '/media/dj_rihya_photo.jpg',
+    imageUrl: './media/dj_rihya_photo.jpg',
     event: 'Club Night Showcase',
     aspect: 'horizontal',
     caption: 'DJ Rihya driving the dancefloor with high-voltage commercial and Bollywood remixes.'
@@ -704,18 +704,18 @@ export const COMPANY_TEAM = [
     name: 'Akash Makana',
     role: 'Founder & Executive Producer',
     bio: 'Pioneering signature club takeovers, Bollywood nights, and stage productions at Chennai’s top nightlife destinations.',
-    image: '/media/lotd_reel_3_thumb.jpg'
+    image: './media/lotd_reel_3_thumb.jpg'
   },
   {
     name: 'Technical Sound & Lighting Lead',
     role: 'Chief AV Systems Engineer',
     bio: 'Specialist in Pioneer DJ setups, digital mixing consoles, DMX intelligent beam lighting, and indoor cold pyrotechnics.',
-    image: '/media/lotd_reel_4_thumb.jpg'
+    image: './media/lotd_reel_4_thumb.jpg'
   },
   {
     name: 'Artist Relations & Host Desk',
     role: 'Head of Talent & Hospitality',
     bio: 'Managing talent bookings, artist advancing, VIP guest lists, and backstage green room hospitality.',
-    image: '/media/chennai_club_night_thumb.jpg'
+    image: './media/chennai_club_night_thumb.jpg'
   }
 ];

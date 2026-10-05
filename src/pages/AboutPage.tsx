@@ -55,7 +55,7 @@ export const AboutPage: React.FC<AboutPageProps> = ({ onNavigate }) => {
 
           <div className="lg:col-span-6 relative rounded-3xl overflow-hidden border border-white/10 h-80 sm:h-[450px]">
             <img 
-              src="/media/lotd_reel_4_thumb.jpg" 
+              src="./media/lotd_reel_4_thumb.jpg" 
               alt="AM PRODUCTION Stage & Pyro Setup" 
               className="w-full h-full object-cover"
             />

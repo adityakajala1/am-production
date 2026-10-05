@@ -15,7 +15,7 @@ export const Footer: React.FC<FooterProps> = ({ onNavigate }) => {
           <div className="lg:col-span-2 space-y-4">
             <div className="flex items-center gap-3">
               <img
-                src="/am_logo_white.png"
+                src="./am_logo_white.png"
                 alt="AM Production Logo"
                 className="h-10 w-auto object-contain drop-shadow"
               />

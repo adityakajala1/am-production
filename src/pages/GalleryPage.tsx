@@ -247,7 +247,7 @@ export const GalleryPage: React.FC<GalleryPageProps> = ({ onNavigate }) => {
             <div className="absolute top-6 left-4 right-4 z-30 flex items-center justify-between text-white">
               <div className="flex items-center gap-2.5">
                 <img
-                  src="/am_logo_white.png"
+                  src="./am_logo_white.png"
                   alt="AM Production"
                   className="w-8 h-8 object-contain"
                 />
@@ -373,7 +373,7 @@ export const GalleryPage: React.FC<GalleryPageProps> = ({ onNavigate }) => {
                 {/* Profile Header */}
                 <div className="flex items-center gap-3 border-b border-white/[0.08] pb-4">
                   <img
-                    src="/am_logo_white.png"
+                    src="./am_logo_white.png"
                     alt="AM Production"
                     className="w-9 h-9 object-contain"
                   />
